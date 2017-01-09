@@ -1,0 +1,20 @@
+{
+  "name": "jan-9",
+  "version": "1.0.0",
+  "description": "A program that returns a sum, after adding one to each element of an array.",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mcsl",
+  "license": "MIT"
+}
